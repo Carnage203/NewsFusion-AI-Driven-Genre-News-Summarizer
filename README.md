@@ -12,8 +12,8 @@ In today's fast-paced digital landscape, users are inundated with news from mult
 - **Manual Summarization:** Manual extraction of key points from multiple articles is inefficient and inconsistent.
 - **Lack of Visual Engagement:** Text-only summaries often fail to capture the full essence of the news, reducing user engagement.
 
-![]()
-![]()
+![](https://github.com/Carnage203/Article-Generator/blob/3ac31523b76fbe8e49681b236691de84421bfb80/1.png)
+![](https://github.com/Carnage203/Article-Generator/blob/3ac31523b76fbe8e49681b236691de84421bfb80/2.png)
 
 ## Work Done
 
