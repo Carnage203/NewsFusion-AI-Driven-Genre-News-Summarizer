@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+google-api-python-client
+langchain_google_community
+pillow
+streamlit
