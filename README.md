@@ -1,4 +1,4 @@
-# AI Article Generator & Image Enhancer
+# NewsFusion: AI-Driven Genre News Summarizer
 
 ## Project Description
 
